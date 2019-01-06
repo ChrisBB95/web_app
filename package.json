@@ -1,0 +1,22 @@
+{
+  "name": "web_app",
+  "version": "1.0.0",
+  "description": "using node.js and express to make a database app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisBB95/web_app.git"
+  },
+  "author": "Christopher Basketfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisBB95/web_app/issues"
+  },
+  "homepage": "https://github.com/ChrisBB95/web_app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
